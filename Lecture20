@@ -10,8 +10,8 @@ int main(){
     vector<string>::iterator champa = solar_sys.begin();
     // cout<<"shivam is at "< vam<<endl;
     advance(shivam, 3);
-    // cout<<*next (shivam, 5) <<endl;I
-    cout<<"Distance from shivam "<<distance (champa, shivam) <<endl;
+    // cout<<*next (shivam, 5) <<endl;
+   
     // cout<<*shivam<<endl;
     // cout<<"let's go to earth "<<*(shivam+2)<<endl;
 
